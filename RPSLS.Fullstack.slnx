@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RPSLS.Fullstack.Application/RPSLS.Fullstack.Application.csproj" />
+    <Project Path="src/RPSLS.Fullstack.Api/RPSLS.Fullstack.Api.csproj" />
+    <Project Path="src/RPSLS.Fullstack.Domain/RPSLS.Fullstack.Domain.csproj" />
+    <Project Path="src/RPSLS.Fullstack.Infrastructure/RPSLS.Fullstack.Infrastructure.csproj" />
+    <Project Path="src/RPSLS.Fullstack.Tests/RPSLS.Fullstack.Tests.csproj" />
+  </Folder>
+</Solution>
